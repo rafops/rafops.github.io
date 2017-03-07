@@ -1,0 +1,67 @@
+body {
+  background: #eaeaea;
+  font: 400 24px/1.4 'cardo';
+  -webkit-text-size-adjust: 100%;
+  overflow-x: hidden;
+}
+
+a, a:visited {
+  color: tomato;
+  text-decoration: none;
+}
+
+/*.clouds {
+  position: absolute;
+  z-index: -1;
+}*/
+
+.header {
+  text-align: center;
+  padding-top: 2em;
+}
+.header h1 {
+  font: 400 87px/84px 'Abril Fatface';
+  margin: 0;
+}
+.header h2 {
+  font: 300 18px/24px 'open sans';
+  margin-top: 0;
+}
+
+.container {
+  padding: 0;
+  margin: 0;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.row {
+  width: auto;
+  max-width: 25.7em;
+  padding: 1em;
+}
+
+.hello {
+  text-align: justify;
+}
+.hello p {
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
+}
+
+.bottom {
+  font: 400 16px 'lato';
+  padding: 50px;
+  text-align: center;
+  background-color: black;
+}
+.bottom a, .bottom a:visited { color: #eaeaea; }
+.bottom span {
+  color: #eaeaea;
+}
