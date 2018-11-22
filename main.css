@@ -1,5 +1,5 @@
 body {
-  background: #eaeaea;
+  background: #e9ebef;
   font: 400 24px/1.4 'cardo';
   -webkit-text-size-adjust: 100%;
   overflow-x: hidden;
@@ -61,7 +61,7 @@ a, a:visited {
   text-align: center;
   background-color: black;
 }
-.bottom a, .bottom a:visited { color: #eaeaea; }
+.bottom a, .bottom a:visited { color: #e9ebef; }
 .bottom span {
-  color: #eaeaea;
+  color: #e9ebef;
 }
